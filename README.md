@@ -1,1 +1,1 @@
-https://github.com/Mxryam/guessing-game.git
+https://roadmap.sh/projects/number-guessing-game
